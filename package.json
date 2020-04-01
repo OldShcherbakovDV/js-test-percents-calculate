@@ -1,0 +1,15 @@
+{
+  "name": "js-test-percents-calculate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Shcherbakov D.V.",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.2.4",
+    "jest-cli": "^25.2.4"
+  }
+}
